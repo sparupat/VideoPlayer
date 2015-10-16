@@ -1,4 +1,4 @@
-var videoSource = "video/StartlightScamper.mp4";
+var videoSource = "video/StarlightScamper.mp4";
 var titleDisplay = "Starlight Scamper";
 var videoDescription = "Hello Srikanth";
 
